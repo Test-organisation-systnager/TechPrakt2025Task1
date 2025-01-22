@@ -31,4 +31,4 @@
 
 Виконав: **студент групи ВТ-23-1 Нагорний Тарас**
 
-nothing important
+vt231_ntg@student.ztu.edu.ua
